@@ -1,0 +1,9 @@
+<component name="libraryTable">
+  <library name="brickpi">
+    <CLASSES>
+      <root url="jar://$PROJECT_DIR$/res/lib/brickpi.jar!/" />
+    </CLASSES>
+    <JAVADOC />
+    <SOURCES />
+  </library>
+</component>
