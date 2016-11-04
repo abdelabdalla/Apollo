@@ -8,5 +8,6 @@
     <orderEntry type="inheritedJdk" />
     <orderEntry type="sourceFolder" forTests="false" />
     <orderEntry type="library" name="brickpi" level="project" />
+    <orderEntry type="library" name="json-1.5-20090211" level="project" />
   </component>
 </module>
